@@ -1,0 +1,44 @@
+[
+    {
+        "date":"2025-08-25T00:00:00.000",
+        "text":"depresyonday\u0131m",
+        "mood_score":4.835,
+        "sentiment_label":"NEGATIVE",
+        "sentiment_score":0.9659663439
+    },
+    {
+        "date":"2025-08-25T00:00:00.000",
+        "text":"",
+        "mood_score":6.05,
+        "sentiment_label":"NEUTRAL",
+        "sentiment_score":1.0
+    },
+    {
+        "date":"2025-08-25T00:00:00.000",
+        "text":"",
+        "mood_score":6.05,
+        "sentiment_label":"NEUTRAL",
+        "sentiment_score":1.0
+    },
+    {
+        "date":"2025-08-25T00:00:00.000",
+        "text":"g\u00fczel\n",
+        "mood_score":6.645,
+        "sentiment_label":"POSITIVE",
+        "sentiment_score":0.9490973949
+    },
+    {
+        "date":"2025-08-25T00:00:00.000",
+        "text":"k\u00f6t\u00fc\n",
+        "mood_score":6.645,
+        "sentiment_label":"POSITIVE",
+        "sentiment_score":0.9586386681
+    },
+    {
+        "date":"2025-08-29",
+        "text":"\u00c7ok mutluyum biraz y\u00fcr\u00fcy\u00fc\u015f yapt\u0131m kendimle vakit ge\u00e7irdim",
+        "mood_score":7.225,
+        "sentiment_label":"NEGATIVE",
+        "sentiment_score":0.9804727435
+    }
+]
